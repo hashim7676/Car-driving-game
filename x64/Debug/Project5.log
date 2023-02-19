@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\muham\source\repos\Project5\Project5\Header.h(111,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Header1.h(17,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Header1.h(59,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Header1.h(101,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Header1.h(144,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(19,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(20,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(246,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(246,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(247,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(247,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(248,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(248,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(249,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(249,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(250,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(250,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(49): warning C4715: 'gameplay::load_texture': not all control paths return a value
+C:\Users\muham\source\repos\Project5\Project5\Source.cpp(154): warning C4715: 'gameplay::gameOver': not all control paths return a value
+  Project5.vcxproj -> C:\Users\muham\source\repos\Project5\x64\Debug\Project5.exe
