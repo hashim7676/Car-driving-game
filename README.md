@@ -2,19 +2,20 @@
 
 Car driving game
 
+As part of my CS112 project, I developed a captivating 2D Car Driving Game that utilizes the SFML graphics library to create visually stunning graphics and animations. The game is designed around the fundamental principles of object-oriented programming, including inheritance, encapsulation, and polymorphism, resulting in a highly optimized and engaging gaming experience.
 
-The 2D video game that I designed for the project of CS112 is a Car Driving Game. The platform that game will run on will be SFML graphics library which will help me with the graphics and animations that are used in my game and it will be based on the concepts of object oriented programming such as inheritance, encapsulation and polymorphism etc.
+Players take control of the main car object, while other game objects such as other vehicles move in the opposite direction, controlled by the program. The game also includes a highway background, colored black with white stripes in the middle, and lush green bushes and trees on both sides, providing an immersive and realistic environment for the user.
 
-The description for my game is that my game will be consisting a main Game Object which is the car that the user will control and there will be other Game Objects such as other vehicles moving in the opposite direction to my car, controlled by the program itself. The other game objects used in the game will be a highway colored black with white stripes in middle followed by bushes and trees in green color on both sides of the highway and other similar animation to make the user enjoy the game and will look more realistic. The highway will be my background game object on which my car will drive.
+The car object is controlled by the keyboard keys, allowing players to move the car forward, backward, left and right, changing its direction accordingly. Colliding with other game objects, such as cars or motorcycles, will result in game over, with the player's score displayed at the end of the game.
+
+As the score increases, the game's difficulty level rises, with the speed of incoming vehicles from the opposite direction accelerating, adding a level of challenge and excitement to the gameplay. The car must defend itself from other game objects by moving in different directions to survive and achieve a high score.
+
+The game features a starting menu and a play again option in the game over screen, with sound effects and a score display board that enhances the overall gaming experience. The combination of high-quality graphics, dynamic gameplay, and intuitive controls ensures that players of all ages will enjoy an engaging and entertaining gaming experience.
+
+In conclusion, my 2D Car Driving Game is a highly immersive and challenging game that is sure to captivate players with its stunning visuals and intuitive gameplay mechanics. With its realistic environment, sound effects, and score display, it provides an unparalleled gaming experience that is sure to keep players coming back for more.
 
 
-The functionality of my game will be basically that the my main object (car) will be moved in forward, backward, left and right directions with the help of keys of keyboard and the car will change its direction accordingly. If the car collide/touch with game objects (cars or motorcycles) the game will end and will show the score at the end of the game that how much you survive.
 
-As the score increases, the difficulty level will also increase because the speed of the incoming vehicles from opposite direction will increase. Therefore it will become difficult to defend the car.
-
-So basically my main object car has to defend itself from other game objects (cars) with the help of keys to move in other direction to survive and have a good record.
-
-I have also added the sound effects and score on the board at the end also so that that the game will look more realistic. The game includes a starting menu and a play again option in the game over screen.
 
 Visual studio code
 version:1.57.0
